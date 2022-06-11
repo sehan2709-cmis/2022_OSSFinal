@@ -1157,7 +1157,7 @@ Abrogate - abolish
 1141Pusillanimous - cowardly
 1142Pyre - ceremonial fire
 1143Pyromania - compulsion to start fires
-(P)
+(Q)
 1144Quack - charlatan; fake
 1145Quaff - drink down quickly
 1146Quagmire - marsh; bog
@@ -1518,6 +1518,7 @@ Abrogate - abolish
 1495Wry - 1. twisted or bent to one side; 2. dryly humorous
 (X)
 1496Xenophobe - Someone who fears or hates foreigners
+(Y)
 (Z)
 1497Zany – entertainingly crazy (denoting humour); wacky
 1498Zeal - enthusiasm
