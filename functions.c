@@ -18,7 +18,7 @@ void startProject(){
 }
 
 void chooseFunction(int* project){
-    printf("\nChoose Which Mode You Will Use (Type an integer Number)\n     0) Synonym Dictionary\n     1) Transition Words Dictionary\n     2) Advanced English Words Dictionary\n     3) Exit Project\n");
+    printf("\nChoose Which Mode You Will Use (Type an integer Number)\n     0) Word Search\n     1) Transition Words Dictionary\n     2) Advanced English Words Dictionary\n     3) Exit Project\n");
     
     while(1){
         printf("\n\n     Which Project: ");
@@ -29,7 +29,7 @@ void chooseFunction(int* project){
         printf("     Please type an integer bumber between 0~3 to start.\n     4) for description\n");
 
         if(*project == 4)
-            printf("\n\n Functions:\n     0) Synonym Dictionary\n     1) Transition Words Dictionary\n     2) Advanced English Words Dictionary\n     3) Exit Project\n");
+            printf("\n\n Functions:\n     0) Word Search\n     1) Transition Words Dictionary\n     2) Advanced English Words Dictionary\n     3) Exit Project\n");
     }
 
     return;
